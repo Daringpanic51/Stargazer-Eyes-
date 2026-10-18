@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture		"models/niobium/deadlock/rem/familiar_eyes"
+
+	$selfillum		1
+	$selfillummask "models/debug/debugwhite"
+	$selfillumtint "[ 0.7765 0.9686 0.9647 ]"
+}
